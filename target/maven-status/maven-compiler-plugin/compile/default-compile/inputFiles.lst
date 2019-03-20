@@ -1,0 +1,16 @@
+/home/wangyang/projects/java/exam_score/src/main/java/com/wangyang/mapper/StudentMapper.java
+/home/wangyang/projects/java/exam_score/src/main/java/com/wangyang/mapper/ExamMapper.java
+/home/wangyang/projects/java/exam_score/src/main/java/com/wangyang/ExamScoreApplication.java
+/home/wangyang/projects/java/exam_score/src/main/java/com/wangyang/domain/Student.java
+/home/wangyang/projects/java/exam_score/src/main/java/com/wangyang/model/SingleExam.java
+/home/wangyang/projects/java/exam_score/src/main/java/com/wangyang/domain/Score.java
+/home/wangyang/projects/java/exam_score/src/main/java/com/wangyang/mapper/ScoreMapper.java
+/home/wangyang/projects/java/exam_score/src/main/java/com/wangyang/controller/ExamController.java
+/home/wangyang/projects/java/exam_score/src/main/java/com/wangyang/controller/ScoreController.java
+/home/wangyang/projects/java/exam_score/src/main/java/com/wangyang/model/PageBean.java
+/home/wangyang/projects/java/exam_score/src/main/java/com/wangyang/domain/Exam.java
+/home/wangyang/projects/java/exam_score/src/main/java/com/wangyang/model/ManyExam.java
+/home/wangyang/projects/java/exam_score/src/main/java/com/wangyang/controller/StuController.java
+/home/wangyang/projects/java/exam_score/src/main/java/com/wangyang/service/impl/TeacherServiceImpl.java
+/home/wangyang/projects/java/exam_score/src/main/java/com/wangyang/service/TeacherService.java
+/home/wangyang/projects/java/exam_score/src/main/java/com/wangyang/exception/RestExceptionHandler.java
